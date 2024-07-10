@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting to Google...</title>
+    <script type="text/javascript">
+        window.location.href = "https://www.google.com";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow this <a href="https://www.google.com">link to Google</a>.</p>
+</body>
+</html>
